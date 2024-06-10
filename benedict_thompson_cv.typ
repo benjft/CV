@@ -10,4 +10,5 @@
 #include "experience.typ"
 #include "education.typ"
 #include "other.typ"
+#pagebreak(weak: true)
 #include "projects.typ"
