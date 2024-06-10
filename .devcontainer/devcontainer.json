@@ -1,0 +1,16 @@
+{
+    // "image": "mcr.microsoft.com/devcontainers/base:alpine",
+	"name": "typst",
+	"build": {
+		"dockerfile": "DOCKERFILE"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"nvarner.typst-lsp",
+                "streetsidesoftware.code-spell-checker",
+				"tomoki1207.pdf"
+			]
+		}
+	}
+}
