@@ -9,5 +9,5 @@
 #include "bio.typ"
 #include "experience.typ"
 #include "education.typ"
-#include "projects.typ"
 #include "other.typ"
+#include "projects.typ"
