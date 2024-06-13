@@ -4,20 +4,36 @@
 *Gold-Vision CRM*, Northampton, Hybrid
 
 - Full stack developer, specialising in MSSQL Server, .Net, and React.
-- Contributed to development of the core CRM product. 
-- Developed features, from design to implementation, such as a middleware layer which automatically tracks and reports feature usage and uptake to inform business decisions.
-- Implemented custom integrations and tools to meet customer requirements, such as a highly customizable OData API to allow customers to compile better reports.
-- Planned project timelines and drafted proposals to secure approval.
-- As part of the DevOps team, developed internal tooling and CI/CD processes, 
-  and performed performance analysis and optimisation.
-- Reviewed and suggested improvements on changes made by co-workers (via pull requests in Azure) to ensure code was error-free and met internal standards.
-- Provided guidance and mentoring to junior team members, demonstrating methods to improve analytical skills and developing effective solutions to problems.
-- Lead agile ceremonies including daily stand-ups, and periodic reviews and retrospectives.
-- Manage the team Kanban in Jira, ensuring all tasks being worked on are up to date, and estimating/curating new tasks from the backlog.
-- Correspond with customers to refine requirements for bespoke work, and deliver/demonstrate completed projects while answering any questions.
+- Contributed to development of the core CRM product.
+- Helped produce and optimize the Marketing product, improving response 
+  times by up to 90%.
+- Design and implemented features, such as a middleware layer to automatically 
+  track and report feature usage and uptake to help inform business decisions.
+- Scoped, quoted, and built bespoke integrations according to customer needs.
+- Modified an existing OData API to make it more flexible, allowing custom
+  models/endpoints to be defined in SQL allowing customers to achieve better 
+  reporting.
+- Involved in internal peer review process, commenting on and suggesting 
+  improvements to pull requests with a strong focus on code quality and security.
+- Responsible for mentoring our junior team member by overseeing their personal
+  development time, helping them plan stories, and suggesting resources they 
+  could look at to improve.
+- Lead agile ceremonies including stand-ups, reviews, and retrospectives.
+- Manage the team Kanban in Jira, ensuring all tasks being worked on are up to 
+  date, and organising estimating and refinement of new tasks from the backlog.
+- As part of the DevOps team, developed internal tooling and CI/CD processes.
+- Assisted lead developer in migrating the marketing product to Azure to allow
+  better scaling and simplify infrastructure.
+- Delivered presentations to customers demonstrating custom features they had 
+  requested.
+- Investigated, proposed, and implemented solutions for a post-Azure migration 
+  feature issue, including container customization and third-party products.
+  
 
 === Junior Software Developer, August 2022 -- June 2023
 *Gold-Vision CRM*, Northampton, Hybrid
 
-- Worked on bugs in the core product to learn how things were structured and worked on core features that had been planned with the help of a mentor.
-- Made use of personal development opportunities to improve my skills throughout our tech stack using online courses.
+- Worked on bugs in the core product to learn how things were structured and 
+  worked on core features that had been planned with the help of a mentor.
+- Made use of personal development opportunities to improve my skills throughout
+  our tech stack using online courses.
