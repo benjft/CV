@@ -27,7 +27,7 @@
 - Delivered presentations to customers demonstrating custom features they had 
   requested.
 - Investigated, proposed, and implemented solutions for a post-Azure migration 
-  feature issue, including container customization and third-party products.
+  feature issue, including container customization and third-party services.
   
 
 === Junior Software Developer, August 2022 -- June 2023
