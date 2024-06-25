@@ -21,9 +21,10 @@
 - Lead agile ceremonies including stand-ups, reviews, and retrospectives.
 - Manage the team Kanban in Jira, ensuring all tasks being worked on are up to 
   date, and organising estimating and refinement of new tasks from the backlog.
-- As part of the DevOps team, developed internal tooling and CI/CD processes.
-- Assisted lead developer in migrating the marketing product to Azure to allow
-  better scaling and simplify infrastructure.
+- As part of the DevOps team, developed internal tooling and new CI/CD processes.
+- Improved existing CI pipelines, reducing build and test times by over 50% with no loss 
+  of functionality.
+- Assisted lead developer in migrating the marketing product to Azure.
 - Delivered presentations to customers demonstrating custom features they had 
   requested.
 - Investigated, proposed, and implemented solutions for a post-Azure migration 
