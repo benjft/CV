@@ -1,9 +1,7 @@
 #align(center)[_
-A full stack software developer working with Asp.Net Core, MSSQL Server, and React, 
-with additional DevOps experience. 
-Experienced working on projects of varying scales, from lightweight tools to 
-complex systems. 
-In my current role I work on adding new functionality to existing products, as 
-well as aiding in the development of new products, implementing CI/CD processes,
-and improving performance and security.
+I'm an experienced software developer with a preference for backend technologies.
+Currently I work in a back end focused role, though still occasionally dabble in front end components.
+My professional experience is centred on C\# and .Net, and use of Microsoft SQL Server.
+I have experience using Azure to host applications, both Azure Function and App Services.
+I also have experience creating, adapting, and improving CI/CD pipelines to streamline development and deployment processes.
 _]
